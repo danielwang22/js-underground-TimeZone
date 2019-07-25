@@ -220,8 +220,9 @@ const autoCompletejs = new autoComplete({
         //背景與文字顏色樣式
         let RandomStyle = ['primary','secondary']
         //要加入的陣列
+        //判斷搜尋結果，以下兩種狀況 => 1. 國家/城市 長度大於1取後面城市名 2. 城市 長度沒有大於1直接取城市名 
         let tempObj = {
-            city: temp[1],
+            city: temp.length > 1 ? temp[1] : temp[0],
             timeZone: {timeZone: selection},
             date(){
                 let newOp = {...options,...this.timeZone}
