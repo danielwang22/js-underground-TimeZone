@@ -146,6 +146,7 @@ const autoCompletejs = new autoComplete({
             const source = await fetch(
                 "../databaseOfTimeZones.json"
             );
+            console.log(source);
             //讀取到資料轉成可以讀的陣列格式
             const data = await source.json();
             // 貼上 placeholder 文字
