@@ -148,7 +148,7 @@ const autoCompletejs = new autoComplete({
             );
             console.log(source);
             //讀取到資料轉成可以讀的陣列格式
-            const data = await source.json();
+            const data = await source.json(JSON.stringify(source));
             // 貼上 placeholder 文字
             document
                 .querySelector("#autoComplete")
