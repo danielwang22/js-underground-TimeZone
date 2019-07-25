@@ -217,12 +217,13 @@ const autoCompletejs = new autoComplete({
         //將國家新增到TimeZone陣列
         //將國家與城市名稱分開
         let temp = selection.split(/\//g);
+        let City = temp.length > 1 ? temp[1] : temp[0];
         //背景與文字顏色樣式
         let RandomStyle = ['primary','secondary']
         //要加入的陣列
         //判斷搜尋結果，以下兩種狀況 => 1. 國家/城市 長度大於1取後面城市名 2. 城市 長度沒有大於1直接取城市名 
         let tempObj = {
-            city: temp.length > 1 ? temp[1] : temp[0],
+            city: City,
             timeZone: {timeZone: selection},
             date(){
                 let newOp = {...options,...this.timeZone}
