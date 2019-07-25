@@ -235,8 +235,8 @@ const autoCompletejs = new autoComplete({
                 return date[1]
             },
             //隨機產生背景與文字顏色、ID
-            bg:`bg-${RandomStyle[Math.floor(Math.random() * 2)]}`,
-            text:`text-${RandomStyle[Math.floor(Math.random() * 2)]}`,
+            bg:`bg-${RandomStyle[1]}`,
+            text:`text-${RandomStyle[0]}`,
             id:TZ.guidGenerator()
         }
         //加到陣列裡
