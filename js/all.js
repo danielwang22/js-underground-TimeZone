@@ -218,6 +218,7 @@ const autoCompletejs = new autoComplete({
         //將國家與城市名稱分開
         let temp = selection.split(/\//g);
         let City = temp.length > 1 ? temp[1] : temp[0];
+        console.log(City)
         //背景與文字顏色樣式
         let RandomStyle = ['primary','secondary']
         //要加入的陣列
