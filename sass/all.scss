@@ -11,6 +11,7 @@ $color-theme: map-merge((
     'primary':$color-primary,
     'secondary':$color-sceondary,
 ),$color-theme);
+
 $spacers: map-merge(
   (
     0: 0,
@@ -65,9 +66,9 @@ $fontSize: (
 
 //mixin
 //格線
-@mixin makegrid($percentage){
-    flex: 0 0 $percentage;
-    max-width: $percentage;
+@mixin makegrid($col){
+    flex: 0 0 (100% * $col);
+    max-width: 100% * $col;
     padding: 8px;
 }
 @mixin container($width,$height){
@@ -94,6 +95,7 @@ body {
     border-top: #000000 10px solid;
     border-bottom: #000000 10px solid;
 }
+@import 'autocomplete';
 
 
 //格線
@@ -102,20 +104,10 @@ body {
     flex-grow: 1;
     max-width: 100%;
 }
-.grid-1 {
-    @include makegrid(100% / 5);
-}
-.grid-2 {
-    @include makegrid(100% * (2 / 5));
-}
-.grid-3 {
-    @include makegrid(100% * (3 / 5));
-}
-.grid-4{
-    @include makegrid(100% * (4 / 5));
-}
-.grid-5{
-    @include makegrid(100%);
+@for $col from 1 to 6 {
+    .grid-#{$col}{
+        @include makegrid($col / 5)
+    }
 }
 .w-100{
     width: 100%;

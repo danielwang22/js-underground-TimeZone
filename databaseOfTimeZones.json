@@ -1,0 +1,5902 @@
+[
+    {
+        "CountryCode": "CI",
+        "Latitude": "+0519−00402",
+        "TZDatabaseName": "Africa/Abidjan",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GH",
+        "Latitude": "+0533−00013",
+        "TZDatabaseName": "Africa/Accra",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "DZ",
+        "Latitude": "+3647+00303",
+        "TZDatabaseName": "Africa/Algiers",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GW",
+        "Latitude": "+1151−01535",
+        "TZDatabaseName": "Africa/Bissau",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "EG",
+        "Latitude": "+3003+03115",
+        "TZDatabaseName": "Africa/Cairo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MA",
+        "Latitude": "+3339−00735",
+        "TZDatabaseName": "Africa/Casablanca",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ES",
+        "Latitude": "+3553−00519",
+        "TZDatabaseName": "Africa/Ceuta",
+        "PortionOfCountryCovered": "Ceuta, Melilla",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "EH",
+        "Latitude": "+2709−01312",
+        "TZDatabaseName": "Africa/El_Aaiun",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ZA",
+        "Latitude": "−2615+02800",
+        "TZDatabaseName": "Africa/Johannesburg",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SS",
+        "Latitude": "+0451+03136",
+        "TZDatabaseName": "Africa/Juba",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SD",
+        "Latitude": "+1536+03232",
+        "TZDatabaseName": "Africa/Khartoum",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NG",
+        "Latitude": "+0627+00324",
+        "TZDatabaseName": "Africa/Lagos",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MZ",
+        "Latitude": "−2558+03235",
+        "TZDatabaseName": "Africa/Maputo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LR",
+        "Latitude": "+0618−01047",
+        "TZDatabaseName": "Africa/Monrovia",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KE",
+        "Latitude": "−0117+03649",
+        "TZDatabaseName": "Africa/Nairobi",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TD",
+        "Latitude": "+1207+01503",
+        "TZDatabaseName": "Africa/Ndjamena",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LY",
+        "Latitude": "+3254+01311",
+        "TZDatabaseName": "Africa/Tripoli",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TN",
+        "Latitude": "+3648+01011",
+        "TZDatabaseName": "Africa/Tunis",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NA",
+        "Latitude": "−2234+01706",
+        "TZDatabaseName": "Africa/Windhoek",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+515248−1763929",
+        "TZDatabaseName": "America/Adak",
+        "PortionOfCountryCovered": "Aleutian Islands",
+        "Status": "Canonical",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+611305−1495401",
+        "TZDatabaseName": "America/Anchorage",
+        "PortionOfCountryCovered": "Alaska (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0712−04812",
+        "TZDatabaseName": "America/Araguaina",
+        "PortionOfCountryCovered": "Tocantins",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−3436−05827",
+        "TZDatabaseName": "America/Argentina/Buenos_Aires",
+        "PortionOfCountryCovered": "Buenos Aires (BA, CF)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−2828−06547",
+        "TZDatabaseName": "America/Argentina/Catamarca",
+        "PortionOfCountryCovered": "Catamarca (CT); Chubut (CH)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−3124−06411",
+        "TZDatabaseName": "America/Argentina/Cordoba",
+        "PortionOfCountryCovered": "Argentina (most areas: CB, CC, CN, ER, FM, MN, SE, SF)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−2411−06518",
+        "TZDatabaseName": "America/Argentina/Jujuy",
+        "PortionOfCountryCovered": "Jujuy (JY)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−2926−06651",
+        "TZDatabaseName": "America/Argentina/La_Rioja",
+        "PortionOfCountryCovered": "La Rioja (LR)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−3253−06849",
+        "TZDatabaseName": "America/Argentina/Mendoza",
+        "PortionOfCountryCovered": "Mendoza (MZ)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−5138−06913",
+        "TZDatabaseName": "America/Argentina/Rio_Gallegos",
+        "PortionOfCountryCovered": "Santa Cruz (SC)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−2447−06525",
+        "TZDatabaseName": "America/Argentina/Salta",
+        "PortionOfCountryCovered": "Salta (SA, LP, NQ, RN)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−3132−06831",
+        "TZDatabaseName": "America/Argentina/San_Juan",
+        "PortionOfCountryCovered": "San Juan (SJ)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−3319−06621",
+        "TZDatabaseName": "America/Argentina/San_Luis",
+        "PortionOfCountryCovered": "San Luis (SL)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−2649−06513",
+        "TZDatabaseName": "America/Argentina/Tucuman",
+        "PortionOfCountryCovered": "Tucuman (TM)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AR",
+        "Latitude": "−5448−06818",
+        "TZDatabaseName": "America/Argentina/Ushuaia",
+        "PortionOfCountryCovered": "Tierra del Fuego (TF)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PY",
+        "Latitude": "−2516−05740",
+        "TZDatabaseName": "America/Asuncion",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+484531−0913718",
+        "TZDatabaseName": "America/Atikokan",
+        "PortionOfCountryCovered": "EST - ON (Atikokan); NU (Coral H)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−1259−03831",
+        "TZDatabaseName": "America/Bahia",
+        "PortionOfCountryCovered": "Bahia",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2048−10515",
+        "TZDatabaseName": "America/Bahia_Banderas",
+        "PortionOfCountryCovered": "Central Time - Bahia de Banderas",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BB",
+        "Latitude": "+1306−05937",
+        "TZDatabaseName": "America/Barbados",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0127−04829",
+        "TZDatabaseName": "America/Belem",
+        "PortionOfCountryCovered": "Para (east); Amapa",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BZ",
+        "Latitude": "+1730−08812",
+        "TZDatabaseName": "America/Belize",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5125−05707",
+        "TZDatabaseName": "America/Blanc-Sablon",
+        "PortionOfCountryCovered": "AST - QC (Lower North Shore)",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "+0249−06040",
+        "TZDatabaseName": "America/Boa_Vista",
+        "PortionOfCountryCovered": "Roraima",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CO",
+        "Latitude": "+0436−07405",
+        "TZDatabaseName": "America/Bogota",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+433649−1161209",
+        "TZDatabaseName": "America/Boise",
+        "PortionOfCountryCovered": "Mountain - ID (south); OR (east)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+690650−1050310",
+        "TZDatabaseName": "America/Cambridge_Bay",
+        "PortionOfCountryCovered": "Mountain - NU (west)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−2027−05437",
+        "TZDatabaseName": "America/Campo_Grande",
+        "PortionOfCountryCovered": "Mato Grosso do Sul",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2105−08646",
+        "TZDatabaseName": "America/Cancun",
+        "PortionOfCountryCovered": "Eastern Standard Time - Quintana Roo",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "VE",
+        "Latitude": "+1030−06656",
+        "TZDatabaseName": "America/Caracas",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GF",
+        "Latitude": "+0456−05220",
+        "TZDatabaseName": "America/Cayenne",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+4151−08739",
+        "TZDatabaseName": "America/Chicago",
+        "PortionOfCountryCovered": "Central (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2838−10605",
+        "TZDatabaseName": "America/Chihuahua",
+        "PortionOfCountryCovered": "Mountain Time - Chihuahua (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CR",
+        "Latitude": "+0956−08405",
+        "TZDatabaseName": "America/Costa_Rica",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4906−11631",
+        "TZDatabaseName": "America/Creston",
+        "PortionOfCountryCovered": "MST - BC (Creston)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−1535−05605",
+        "TZDatabaseName": "America/Cuiaba",
+        "PortionOfCountryCovered": "Mato Grosso",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CW",
+        "Latitude": "+1211−06900",
+        "TZDatabaseName": "America/Curacao",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GL",
+        "Latitude": "+7646−01840",
+        "TZDatabaseName": "America/Danmarkshavn",
+        "PortionOfCountryCovered": "National Park (east coast)",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6404−13925",
+        "TZDatabaseName": "America/Dawson",
+        "PortionOfCountryCovered": "Pacific - Yukon (north)",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5946−12014",
+        "TZDatabaseName": "America/Dawson_Creek",
+        "PortionOfCountryCovered": "MST - BC (Dawson Cr, Ft St John)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+394421−1045903",
+        "TZDatabaseName": "America/Denver",
+        "PortionOfCountryCovered": "Mountain (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+421953−0830245",
+        "TZDatabaseName": "America/Detroit",
+        "PortionOfCountryCovered": "Eastern - MI (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5333−11328",
+        "TZDatabaseName": "America/Edmonton",
+        "PortionOfCountryCovered": "Mountain - AB; BC (E); SK (W)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0640−06952",
+        "TZDatabaseName": "America/Eirunepe",
+        "PortionOfCountryCovered": "Amazonas (west)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SV",
+        "Latitude": "+1342−08912",
+        "TZDatabaseName": "America/El_Salvador",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5848−12242",
+        "TZDatabaseName": "America/Fort_Nelson",
+        "PortionOfCountryCovered": "MST - BC (Ft Nelson)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0343−03830",
+        "TZDatabaseName": "America/Fortaleza",
+        "PortionOfCountryCovered": "Brazil (northeast: MA, PI, CE, RN, PB)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4612−05957",
+        "TZDatabaseName": "America/Glace_Bay",
+        "PortionOfCountryCovered": "Atlantic - NS (Cape Breton)",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GL",
+        "Latitude": "+6411−05144",
+        "TZDatabaseName": "America/Godthab",
+        "PortionOfCountryCovered": "Greenland (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5320−06025",
+        "TZDatabaseName": "America/Goose_Bay",
+        "PortionOfCountryCovered": "Atlantic - Labrador (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TC",
+        "Latitude": "+2128−07108",
+        "TZDatabaseName": "America/Grand_Turk",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GT",
+        "Latitude": "+1438−09031",
+        "TZDatabaseName": "America/Guatemala",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "EC",
+        "Latitude": "−0210−07950",
+        "TZDatabaseName": "America/Guayaquil",
+        "PortionOfCountryCovered": "Ecuador (mainland)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GY",
+        "Latitude": "+0648−05810",
+        "TZDatabaseName": "America/Guyana",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4439−06336",
+        "TZDatabaseName": "America/Halifax",
+        "PortionOfCountryCovered": "Atlantic - NS (most areas); PE",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CU",
+        "Latitude": "+2308−08222",
+        "TZDatabaseName": "America/Havana",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2904−11058",
+        "TZDatabaseName": "America/Hermosillo",
+        "PortionOfCountryCovered": "Mountain Standard Time - Sonora",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+394606−0860929",
+        "TZDatabaseName": "America/Indiana/Indianapolis",
+        "PortionOfCountryCovered": "Eastern - IN (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+411745−0863730",
+        "TZDatabaseName": "America/Indiana/Knox",
+        "PortionOfCountryCovered": "Central - IN (Starke)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+382232−0862041",
+        "TZDatabaseName": "America/Indiana/Marengo",
+        "PortionOfCountryCovered": "Eastern - IN (Crawford)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+382931−0871643",
+        "TZDatabaseName": "America/Indiana/Petersburg",
+        "PortionOfCountryCovered": "Eastern - IN (Pike)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+375711−0864541",
+        "TZDatabaseName": "America/Indiana/Tell_City",
+        "PortionOfCountryCovered": "Central - IN (Perry)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+384452−0850402",
+        "TZDatabaseName": "America/Indiana/Vevay",
+        "PortionOfCountryCovered": "Eastern - IN (Switzerland)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+384038−0873143",
+        "TZDatabaseName": "America/Indiana/Vincennes",
+        "PortionOfCountryCovered": "Eastern - IN (Da, Du, K, Mn)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+410305−0863611",
+        "TZDatabaseName": "America/Indiana/Winamac",
+        "PortionOfCountryCovered": "Eastern - IN (Pulaski)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+682059−13343",
+        "TZDatabaseName": "America/Inuvik",
+        "PortionOfCountryCovered": "Mountain - NT (west)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6344−06828",
+        "TZDatabaseName": "America/Iqaluit",
+        "PortionOfCountryCovered": "Eastern - NU (most east areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "JM",
+        "Latitude": "+175805−0764736",
+        "TZDatabaseName": "America/Jamaica",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+581807−1342511",
+        "TZDatabaseName": "America/Juneau",
+        "PortionOfCountryCovered": "Alaska - Juneau area",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+381515−0854534",
+        "TZDatabaseName": "America/Kentucky/Louisville",
+        "PortionOfCountryCovered": "Eastern - KY (Louisville area)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+364947−0845057",
+        "TZDatabaseName": "America/Kentucky/Monticello",
+        "PortionOfCountryCovered": "Eastern - KY (Wayne)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BO",
+        "Latitude": "−1630−06809",
+        "TZDatabaseName": "America/La_Paz",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PE",
+        "Latitude": "−1203−07703",
+        "TZDatabaseName": "America/Lima",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+340308−1181434",
+        "TZDatabaseName": "America/Los_Angeles",
+        "PortionOfCountryCovered": "Pacific",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0940−03543",
+        "TZDatabaseName": "America/Maceio",
+        "PortionOfCountryCovered": "Alagoas, Sergipe",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NI",
+        "Latitude": "+1209−08617",
+        "TZDatabaseName": "America/Managua",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0308−06001",
+        "TZDatabaseName": "America/Manaus",
+        "PortionOfCountryCovered": "Amazonas (east)",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MQ",
+        "Latitude": "+1436−06105",
+        "TZDatabaseName": "America/Martinique",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2550−09730",
+        "TZDatabaseName": "America/Matamoros",
+        "PortionOfCountryCovered": "Central Time US - Coahuila, Nuevo Leon, Tamaulipas (US border)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2313−10625",
+        "TZDatabaseName": "America/Mazatlan",
+        "PortionOfCountryCovered": "Mountain Time - Baja California Sur, Nayarit, Sinaloa",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+450628−0873651",
+        "TZDatabaseName": "America/Menominee",
+        "PortionOfCountryCovered": "Central - MI (Wisconsin border)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2058−08937",
+        "TZDatabaseName": "America/Merida",
+        "PortionOfCountryCovered": "Central Time - Campeche, Yucatan",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+550737−1313435",
+        "TZDatabaseName": "America/Metlakatla",
+        "PortionOfCountryCovered": "Alaska - Annette Island",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+1924−09909",
+        "TZDatabaseName": "America/Mexico_City",
+        "PortionOfCountryCovered": "Central Time",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PM",
+        "Latitude": "+4703−05620",
+        "TZDatabaseName": "America/Miquelon",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4606−06447",
+        "TZDatabaseName": "America/Moncton",
+        "PortionOfCountryCovered": "Atlantic - New Brunswick",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2540−10019",
+        "TZDatabaseName": "America/Monterrey",
+        "PortionOfCountryCovered": "Central Time - Durango; Coahuila, Nuevo Leon, Tamaulipas (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UY",
+        "Latitude": "−3453−05611",
+        "TZDatabaseName": "America/Montevideo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BS",
+        "Latitude": "+2505−07721",
+        "TZDatabaseName": "America/Nassau",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+404251−0740023",
+        "TZDatabaseName": "America/New_York",
+        "PortionOfCountryCovered": "Eastern (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4901−08816",
+        "TZDatabaseName": "America/Nipigon",
+        "PortionOfCountryCovered": "Eastern - ON, QC (no DST 1967−73)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+643004−1652423",
+        "TZDatabaseName": "America/Nome",
+        "PortionOfCountryCovered": "Alaska (west)",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0351−03225",
+        "TZDatabaseName": "America/Noronha",
+        "PortionOfCountryCovered": "Atlantic islands",
+        "Status": "Canonical",
+        "UTCOffset": "−02:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+471551−1014640",
+        "TZDatabaseName": "America/North_Dakota/Beulah",
+        "PortionOfCountryCovered": "Central - ND (Mercer)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+470659−1011757",
+        "TZDatabaseName": "America/North_Dakota/Center",
+        "PortionOfCountryCovered": "Central - ND (Oliver)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+465042−1012439",
+        "TZDatabaseName": "America/North_Dakota/New_Salem",
+        "PortionOfCountryCovered": "Central - ND (Morton rural)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+2934−10425",
+        "TZDatabaseName": "America/Ojinaga",
+        "PortionOfCountryCovered": "Mountain Time US - Chihuahua (US border)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PA",
+        "Latitude": "+0858−07932",
+        "TZDatabaseName": "America/Panama",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6608−06544",
+        "TZDatabaseName": "America/Pangnirtung",
+        "PortionOfCountryCovered": "Eastern - NU (Pangnirtung)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SR",
+        "Latitude": "+0550−05510",
+        "TZDatabaseName": "America/Paramaribo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+332654−1120424",
+        "TZDatabaseName": "America/Phoenix",
+        "PortionOfCountryCovered": "MST - Arizona (except Navajo)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TT",
+        "Latitude": "+1039−06131",
+        "TZDatabaseName": "America/Port_of_Spain",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "HT",
+        "Latitude": "+1832−07220",
+        "TZDatabaseName": "America/Port-au-Prince",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0846−06354",
+        "TZDatabaseName": "America/Porto_Velho",
+        "PortionOfCountryCovered": "Rondonia",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PR",
+        "Latitude": "+182806−0660622",
+        "TZDatabaseName": "America/Puerto_Rico",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4843−09434",
+        "TZDatabaseName": "America/Rainy_River",
+        "PortionOfCountryCovered": "Central - ON (Rainy R, Ft Frances)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6249−0920459",
+        "TZDatabaseName": "America/Rankin_Inlet",
+        "PortionOfCountryCovered": "Central - NU (central)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0803−03454",
+        "TZDatabaseName": "America/Recife",
+        "PortionOfCountryCovered": "Pernambuco",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5024−10439",
+        "TZDatabaseName": "America/Regina",
+        "PortionOfCountryCovered": "CST - SK (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+744144−0944945",
+        "TZDatabaseName": "America/Resolute",
+        "PortionOfCountryCovered": "Central - NU (Resolute)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0958−06748",
+        "TZDatabaseName": "America/Rio_Branco",
+        "PortionOfCountryCovered": "Acre",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−0226−05452",
+        "TZDatabaseName": "America/Santarem",
+        "PortionOfCountryCovered": "Para (west)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CL",
+        "Latitude": "−3327−07040",
+        "TZDatabaseName": "America/Santiago",
+        "PortionOfCountryCovered": "Chile (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "DO",
+        "Latitude": "+1828−06954",
+        "TZDatabaseName": "America/Santo_Domingo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BR",
+        "Latitude": "−2332−04637",
+        "TZDatabaseName": "America/Sao_Paulo",
+        "PortionOfCountryCovered": "Brazil (southeast: GO, DF, MG, ES, RJ, SP, PR, SC, RS)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GL",
+        "Latitude": "+7029−02158",
+        "TZDatabaseName": "America/Scoresbysund",
+        "PortionOfCountryCovered": "Scoresbysund/Ittoqqortoormiit",
+        "Status": "Canonical",
+        "UTCOffset": "−01:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+571035−1351807",
+        "TZDatabaseName": "America/Sitka",
+        "PortionOfCountryCovered": "Alaska - Sitka area",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4734−05243",
+        "TZDatabaseName": "America/St_Johns",
+        "PortionOfCountryCovered": "Newfoundland; Labrador (southeast)",
+        "Status": "Canonical",
+        "UTCOffset": "−03:30",
+        "UTCDSTOffset": "−02:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+5017−10750",
+        "TZDatabaseName": "America/Swift_Current",
+        "PortionOfCountryCovered": "CST - SK (midwest)",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "HN",
+        "Latitude": "+1406−08713",
+        "TZDatabaseName": "America/Tegucigalpa",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GL",
+        "Latitude": "+7634−06847",
+        "TZDatabaseName": "America/Thule",
+        "PortionOfCountryCovered": "Thule/Pituffik",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4823−08915",
+        "TZDatabaseName": "America/Thunder_Bay",
+        "PortionOfCountryCovered": "Eastern - ON (Thunder Bay)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MX",
+        "Latitude": "+3232−11701",
+        "TZDatabaseName": "America/Tijuana",
+        "PortionOfCountryCovered": "Pacific Time US - Baja California",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4339−07923",
+        "TZDatabaseName": "America/Toronto",
+        "PortionOfCountryCovered": "Eastern - ON, QC (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4916−12307",
+        "TZDatabaseName": "America/Vancouver",
+        "PortionOfCountryCovered": "Pacific - BC (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6043−13503",
+        "TZDatabaseName": "America/Whitehorse",
+        "PortionOfCountryCovered": "Pacific - Yukon (south)",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+4953−09709",
+        "TZDatabaseName": "America/Winnipeg",
+        "PortionOfCountryCovered": "Central - ON (west); Manitoba",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+593249−1394338",
+        "TZDatabaseName": "America/Yakutat",
+        "PortionOfCountryCovered": "Alaska - Yakutat",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CA",
+        "Latitude": "+6227−11421",
+        "TZDatabaseName": "America/Yellowknife",
+        "PortionOfCountryCovered": "Mountain - NT (central)",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6617+11031",
+        "TZDatabaseName": "Antarctica/Casey",
+        "PortionOfCountryCovered": "Casey",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6835+07758",
+        "TZDatabaseName": "Antarctica/Davis",
+        "PortionOfCountryCovered": "Davis",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6640+14001",
+        "TZDatabaseName": "Antarctica/DumontDUrville",
+        "PortionOfCountryCovered": "Dumont-d'Urville",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−5430+15857",
+        "TZDatabaseName": "Antarctica/Macquarie",
+        "PortionOfCountryCovered": "Macquarie Island",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6736+06253",
+        "TZDatabaseName": "Antarctica/Mawson",
+        "PortionOfCountryCovered": "Mawson",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6734−06808",
+        "TZDatabaseName": "Antarctica/Rothera",
+        "PortionOfCountryCovered": "Rothera",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−690022+0393524",
+        "TZDatabaseName": "Antarctica/Syowa",
+        "PortionOfCountryCovered": "Syowa",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−7824+10654",
+        "TZDatabaseName": "Antarctica/Vostok",
+        "PortionOfCountryCovered": "Vostok",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+4315+07657",
+        "TZDatabaseName": "Asia/Almaty",
+        "PortionOfCountryCovered": "Kazakhstan (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "JO",
+        "Latitude": "+3157+03556",
+        "TZDatabaseName": "Asia/Amman",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+6445+17729",
+        "TZDatabaseName": "Asia/Anadyr",
+        "PortionOfCountryCovered": "MSK+09 - Bering Sea",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+4431+05016",
+        "TZDatabaseName": "Asia/Aqtau",
+        "PortionOfCountryCovered": "Mangghystau/Mankistau",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+5017+05710",
+        "TZDatabaseName": "Asia/Aqtobe",
+        "PortionOfCountryCovered": "Aqtobe/Aktobe",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TM",
+        "Latitude": "+3757+05823",
+        "TZDatabaseName": "Asia/Ashgabat",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+4707+05156",
+        "TZDatabaseName": "Asia/Atyrau",
+        "PortionOfCountryCovered": "Atyrau/Atirau/Gur'yev",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IQ",
+        "Latitude": "+3321+04425",
+        "TZDatabaseName": "Asia/Baghdad",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AZ",
+        "Latitude": "+4023+04951",
+        "TZDatabaseName": "Asia/Baku",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TH",
+        "Latitude": "+1345+10031",
+        "TZDatabaseName": "Asia/Bangkok",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5322+08345",
+        "TZDatabaseName": "Asia/Barnaul",
+        "PortionOfCountryCovered": "MSK+04 - Altai",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LB",
+        "Latitude": "+3353+03530",
+        "TZDatabaseName": "Asia/Beirut",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KG",
+        "Latitude": "+4254+07436",
+        "TZDatabaseName": "Asia/Bishkek",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BN",
+        "Latitude": "+0456+11455",
+        "TZDatabaseName": "Asia/Brunei",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5203+11328",
+        "TZDatabaseName": "Asia/Chita",
+        "PortionOfCountryCovered": "MSK+06 - Zabaykalsky",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MN",
+        "Latitude": "+4804+11430",
+        "TZDatabaseName": "Asia/Choibalsan",
+        "PortionOfCountryCovered": "Dornod, Sukhbaatar",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LK",
+        "Latitude": "+0656+07951",
+        "TZDatabaseName": "Asia/Colombo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:30",
+        "UTCDSTOffset": "+05:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SY",
+        "Latitude": "+3330+03618",
+        "TZDatabaseName": "Asia/Damascus",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BD",
+        "Latitude": "+2343+09025",
+        "TZDatabaseName": "Asia/Dhaka",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TL",
+        "Latitude": "−0833+12535",
+        "TZDatabaseName": "Asia/Dili",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AE",
+        "Latitude": "+2518+05518",
+        "TZDatabaseName": "Asia/Dubai",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TJ",
+        "Latitude": "+3835+06848",
+        "TZDatabaseName": "Asia/Dushanbe",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CY",
+        "Latitude": "+3507+03357",
+        "TZDatabaseName": "Asia/Famagusta",
+        "PortionOfCountryCovered": "Northern Cyprus",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PS",
+        "Latitude": "+3130+03428",
+        "TZDatabaseName": "Asia/Gaza",
+        "PortionOfCountryCovered": "Gaza Strip",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PS",
+        "Latitude": "+3132+0350542",
+        "TZDatabaseName": "Asia/Hebron",
+        "PortionOfCountryCovered": "West Bank",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "VN",
+        "Latitude": "+1045+10640",
+        "TZDatabaseName": "Asia/Ho_Chi_Minh",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "HK",
+        "Latitude": "+2217+11409",
+        "TZDatabaseName": "Asia/Hong_Kong",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MN",
+        "Latitude": "+4801+09139",
+        "TZDatabaseName": "Asia/Hovd",
+        "PortionOfCountryCovered": "Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5216+10420",
+        "TZDatabaseName": "Asia/Irkutsk",
+        "PortionOfCountryCovered": "MSK+05 - Irkutsk, Buryatia",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ID",
+        "Latitude": "−0610+10648",
+        "TZDatabaseName": "Asia/Jakarta",
+        "PortionOfCountryCovered": "Java, Sumatra",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ID",
+        "Latitude": "−0232+14042",
+        "TZDatabaseName": "Asia/Jayapura",
+        "PortionOfCountryCovered": "New Guinea (West Papua / Irian Jaya); Malukus/Moluccas",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IL",
+        "Latitude": "+314650+0351326",
+        "TZDatabaseName": "Asia/Jerusalem",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AF",
+        "Latitude": "+3431+06912",
+        "TZDatabaseName": "Asia/Kabul",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:30",
+        "UTCDSTOffset": "+04:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5301+15839",
+        "TZDatabaseName": "Asia/Kamchatka",
+        "PortionOfCountryCovered": "MSK+09 - Kamchatka",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PK",
+        "Latitude": "+2452+06703",
+        "TZDatabaseName": "Asia/Karachi",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NP",
+        "Latitude": "+2743+08519",
+        "TZDatabaseName": "Asia/Kathmandu",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:45",
+        "UTCDSTOffset": "+05:45",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+623923+1353314",
+        "TZDatabaseName": "Asia/Khandyga",
+        "PortionOfCountryCovered": "MSK+06 - Tomponsky, Ust-Maysky",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5601+09250",
+        "TZDatabaseName": "Asia/Krasnoyarsk",
+        "PortionOfCountryCovered": "MSK+04 - Krasnoyarsk area",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MY",
+        "Latitude": "+0310+10142",
+        "TZDatabaseName": "Asia/Kuala_Lumpur",
+        "PortionOfCountryCovered": "Malaysia (peninsula)",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MY",
+        "Latitude": "+0133+11020",
+        "TZDatabaseName": "Asia/Kuching",
+        "PortionOfCountryCovered": "Sabah, Sarawak",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MO",
+        "Latitude": "+2214+11335",
+        "TZDatabaseName": "Asia/Macau",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5934+15048",
+        "TZDatabaseName": "Asia/Magadan",
+        "PortionOfCountryCovered": "MSK+08 - Magadan",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ID",
+        "Latitude": "−0507+11924",
+        "TZDatabaseName": "Asia/Makassar",
+        "PortionOfCountryCovered": "Borneo (east, south); Sulawesi/Celebes, Bali, Nusa Tengarra; Timor (west)",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PH",
+        "Latitude": "+1435+12100",
+        "TZDatabaseName": "Asia/Manila",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5345+08707",
+        "TZDatabaseName": "Asia/Novokuznetsk",
+        "PortionOfCountryCovered": "MSK+04 - Kemerovo",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5502+08255",
+        "TZDatabaseName": "Asia/Novosibirsk",
+        "PortionOfCountryCovered": "MSK+04 - Novosibirsk",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5500+07324",
+        "TZDatabaseName": "Asia/Omsk",
+        "PortionOfCountryCovered": "MSK+03 - Omsk",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+5113+05121",
+        "TZDatabaseName": "Asia/Oral",
+        "PortionOfCountryCovered": "West Kazakhstan",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ID",
+        "Latitude": "−0002+10920",
+        "TZDatabaseName": "Asia/Pontianak",
+        "PortionOfCountryCovered": "Borneo (west, central)",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KP",
+        "Latitude": "+3901+12545",
+        "TZDatabaseName": "Asia/Pyongyang",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "QA",
+        "Latitude": "+2517+05132",
+        "TZDatabaseName": "Asia/Qatar",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KZ",
+        "Latitude": "+4448+06528",
+        "TZDatabaseName": "Asia/Qyzylorda",
+        "PortionOfCountryCovered": "Qyzylorda/Kyzylorda/Kzyl-Orda",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SA",
+        "Latitude": "+2438+04643",
+        "TZDatabaseName": "Asia/Riyadh",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+4658+14242",
+        "TZDatabaseName": "Asia/Sakhalin",
+        "PortionOfCountryCovered": "MSK+08 - Sakhalin Island",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UZ",
+        "Latitude": "+3940+06648",
+        "TZDatabaseName": "Asia/Samarkand",
+        "PortionOfCountryCovered": "Uzbekistan (west)",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KR",
+        "Latitude": "+3733+12658",
+        "TZDatabaseName": "Asia/Seoul",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CN",
+        "Latitude": "+3114+12128",
+        "TZDatabaseName": "Asia/Shanghai",
+        "PortionOfCountryCovered": "Beijing Time",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SG",
+        "Latitude": "+0117+10351",
+        "TZDatabaseName": "Asia/Singapore",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+6728+15343",
+        "TZDatabaseName": "Asia/Srednekolymsk",
+        "PortionOfCountryCovered": "MSK+08 - Sakha (E); North Kuril Is",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TW",
+        "Latitude": "+2503+12130",
+        "TZDatabaseName": "Asia/Taipei",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UZ",
+        "Latitude": "+4120+06918",
+        "TZDatabaseName": "Asia/Tashkent",
+        "PortionOfCountryCovered": "Uzbekistan (east)",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GE",
+        "Latitude": "+4143+04449",
+        "TZDatabaseName": "Asia/Tbilisi",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IR",
+        "Latitude": "+3540+05126",
+        "TZDatabaseName": "Asia/Tehran",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:30",
+        "UTCDSTOffset": "+04:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BT",
+        "Latitude": "+2728+08939",
+        "TZDatabaseName": "Asia/Thimphu",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "JP",
+        "Latitude": "+353916+1394441",
+        "TZDatabaseName": "Asia/Tokyo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5630+08458",
+        "TZDatabaseName": "Asia/Tomsk",
+        "PortionOfCountryCovered": "MSK+04 - Tomsk",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MN",
+        "Latitude": "+4755+10653",
+        "TZDatabaseName": "Asia/Ulaanbaatar",
+        "PortionOfCountryCovered": "Mongolia (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+643337+1431336",
+        "TZDatabaseName": "Asia/Ust-Nera",
+        "PortionOfCountryCovered": "MSK+07 - Oymyakonsky",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+4310+13156",
+        "TZDatabaseName": "Asia/Vladivostok",
+        "PortionOfCountryCovered": "MSK+07 - Amur River",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+6200+12940",
+        "TZDatabaseName": "Asia/Yakutsk",
+        "PortionOfCountryCovered": "MSK+06 - Lena River",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MM",
+        "Latitude": "+1647+09610",
+        "TZDatabaseName": "Asia/Yangon",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:30",
+        "UTCDSTOffset": "+06:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5651+06036",
+        "TZDatabaseName": "Asia/Yekaterinburg",
+        "PortionOfCountryCovered": "MSK+02 - Urals",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AM",
+        "Latitude": "+4011+04430",
+        "TZDatabaseName": "Asia/Yerevan",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PT",
+        "Latitude": "+3744−02540",
+        "TZDatabaseName": "Atlantic/Azores",
+        "PortionOfCountryCovered": "Azores",
+        "Status": "Canonical",
+        "UTCOffset": "−01:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BM",
+        "Latitude": "+3217−06446",
+        "TZDatabaseName": "Atlantic/Bermuda",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ES",
+        "Latitude": "+2806−01524",
+        "TZDatabaseName": "Atlantic/Canary",
+        "PortionOfCountryCovered": "Canary Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CV",
+        "Latitude": "+1455−02331",
+        "TZDatabaseName": "Atlantic/Cape_Verde",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−01:00",
+        "UTCDSTOffset": "−01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FO",
+        "Latitude": "+6201−00646",
+        "TZDatabaseName": "Atlantic/Faroe",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PT",
+        "Latitude": "+3238−01654",
+        "TZDatabaseName": "Atlantic/Madeira",
+        "PortionOfCountryCovered": "Madeira Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IS",
+        "Latitude": "+6409−02151",
+        "TZDatabaseName": "Atlantic/Reykjavik",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GS",
+        "Latitude": "−5416−03632",
+        "TZDatabaseName": "Atlantic/South_Georgia",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−02:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FK",
+        "Latitude": "−5142−05751",
+        "TZDatabaseName": "Atlantic/Stanley",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3455+13835",
+        "TZDatabaseName": "Australia/Adelaide",
+        "PortionOfCountryCovered": "South Australia",
+        "Status": "Canonical",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+10:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−2728+15302",
+        "TZDatabaseName": "Australia/Brisbane",
+        "PortionOfCountryCovered": "Queensland (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3157+14127",
+        "TZDatabaseName": "Australia/Broken_Hill",
+        "PortionOfCountryCovered": "New South Wales (Yancowinna)",
+        "Status": "Canonical",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+10:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3956+14352",
+        "TZDatabaseName": "Australia/Currie",
+        "PortionOfCountryCovered": "Tasmania (King Island)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−1228+13050",
+        "TZDatabaseName": "Australia/Darwin",
+        "PortionOfCountryCovered": "Northern Territory",
+        "Status": "Canonical",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+09:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3143+12852",
+        "TZDatabaseName": "Australia/Eucla",
+        "PortionOfCountryCovered": "Western Australia (Eucla)",
+        "Status": "Canonical",
+        "UTCOffset": "+08:45",
+        "UTCDSTOffset": "+08:45",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−4253+14719",
+        "TZDatabaseName": "Australia/Hobart",
+        "PortionOfCountryCovered": "Tasmania (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−2016+14900",
+        "TZDatabaseName": "Australia/Lindeman",
+        "PortionOfCountryCovered": "Queensland (Whitsunday Islands)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3749+14458",
+        "TZDatabaseName": "Australia/Melbourne",
+        "PortionOfCountryCovered": "Victoria",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3157+11551",
+        "TZDatabaseName": "Australia/Perth",
+        "PortionOfCountryCovered": "Western Australia (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3352+15113",
+        "TZDatabaseName": "Australia/Sydney",
+        "PortionOfCountryCovered": "New South Wales (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/UCT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/UTC",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NL",
+        "Latitude": "+5222+00454",
+        "TZDatabaseName": "Europe/Amsterdam",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AD",
+        "Latitude": "+4230+00131",
+        "TZDatabaseName": "Europe/Andorra",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+4621+04803",
+        "TZDatabaseName": "Europe/Astrakhan",
+        "PortionOfCountryCovered": "MSK+01 - Astrakhan",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GR",
+        "Latitude": "+3758+02343",
+        "TZDatabaseName": "Europe/Athens",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RS",
+        "Latitude": "+4450+02030",
+        "TZDatabaseName": "Europe/Belgrade",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BE",
+        "Latitude": "+5050+00420",
+        "TZDatabaseName": "Europe/Brussels",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RO",
+        "Latitude": "+4426+02606",
+        "TZDatabaseName": "Europe/Bucharest",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "HU",
+        "Latitude": "+4730+01905",
+        "TZDatabaseName": "Europe/Budapest",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MD",
+        "Latitude": "+4700+02850",
+        "TZDatabaseName": "Europe/Chisinau",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "DK",
+        "Latitude": "+5540+01235",
+        "TZDatabaseName": "Europe/Copenhagen",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IE",
+        "Latitude": "+5320−00615",
+        "TZDatabaseName": "Europe/Dublin",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GI",
+        "Latitude": "+3608−00521",
+        "TZDatabaseName": "Europe/Gibraltar",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FI",
+        "Latitude": "+6010+02458",
+        "TZDatabaseName": "Europe/Helsinki",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TR",
+        "Latitude": "+4101+02858",
+        "TZDatabaseName": "Europe/Istanbul",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5443+02030",
+        "TZDatabaseName": "Europe/Kaliningrad",
+        "PortionOfCountryCovered": "MSK−01 - Kaliningrad",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UA",
+        "Latitude": "+5026+03031",
+        "TZDatabaseName": "Europe/Kiev",
+        "PortionOfCountryCovered": "Ukraine (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5836+04939",
+        "TZDatabaseName": "Europe/Kirov",
+        "PortionOfCountryCovered": "MSK+00 - Kirov",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PT",
+        "Latitude": "+3843−00908",
+        "TZDatabaseName": "Europe/Lisbon",
+        "PortionOfCountryCovered": "Portugal (mainland)",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GB",
+        "Latitude": "+513030−0000731",
+        "TZDatabaseName": "Europe/London",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LU",
+        "Latitude": "+4936+00609",
+        "TZDatabaseName": "Europe/Luxembourg",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "ES",
+        "Latitude": "+4024−00341",
+        "TZDatabaseName": "Europe/Madrid",
+        "PortionOfCountryCovered": "Spain (mainland)",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MT",
+        "Latitude": "+3554+01431",
+        "TZDatabaseName": "Europe/Malta",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BY",
+        "Latitude": "+5354+02734",
+        "TZDatabaseName": "Europe/Minsk",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MC",
+        "Latitude": "+4342+00723",
+        "TZDatabaseName": "Europe/Monaco",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+554521+0373704",
+        "TZDatabaseName": "Europe/Moscow",
+        "PortionOfCountryCovered": "MSK+00 - Moscow area",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CY",
+        "Latitude": "+3510+03322",
+        "TZDatabaseName": "Asia/Nicosia",
+        "PortionOfCountryCovered": "Cyprus (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NO",
+        "Latitude": "+5955+01045",
+        "TZDatabaseName": "Europe/Oslo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FR",
+        "Latitude": "+4852+00220",
+        "TZDatabaseName": "Europe/Paris",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CZ",
+        "Latitude": "+5005+01426",
+        "TZDatabaseName": "Europe/Prague",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LV",
+        "Latitude": "+5657+02406",
+        "TZDatabaseName": "Europe/Riga",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IT",
+        "Latitude": "+4154+01229",
+        "TZDatabaseName": "Europe/Rome",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5312+05009",
+        "TZDatabaseName": "Europe/Samara",
+        "PortionOfCountryCovered": "MSK+01 - Samara, Udmurtia",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5134+04602",
+        "TZDatabaseName": "Europe/Saratov",
+        "PortionOfCountryCovered": "MSK+01 - Saratov",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "BG",
+        "Latitude": "+4241+02319",
+        "TZDatabaseName": "Europe/Sofia",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SE",
+        "Latitude": "+5920+01803",
+        "TZDatabaseName": "Europe/Stockholm",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "EE",
+        "Latitude": "+5925+02445",
+        "TZDatabaseName": "Europe/Tallinn",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AL",
+        "Latitude": "+4120+01950",
+        "TZDatabaseName": "Europe/Tirane",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+5420+04824",
+        "TZDatabaseName": "Europe/Ulyanovsk",
+        "PortionOfCountryCovered": "MSK+01 - Ulyanovsk",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UA",
+        "Latitude": "+4837+02218",
+        "TZDatabaseName": "Europe/Uzhgorod",
+        "PortionOfCountryCovered": "Ruthenia",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AT",
+        "Latitude": "+4813+01620",
+        "TZDatabaseName": "Europe/Vienna",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "LT",
+        "Latitude": "+5441+02519",
+        "TZDatabaseName": "Europe/Vilnius",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RU",
+        "Latitude": "+4844+04425",
+        "TZDatabaseName": "Europe/Volgograd",
+        "PortionOfCountryCovered": "MSK+01 - Volgograd",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PL",
+        "Latitude": "+5215+02100",
+        "TZDatabaseName": "Europe/Warsaw",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UA",
+        "Latitude": "+4750+03510",
+        "TZDatabaseName": "Europe/Zaporozhye",
+        "PortionOfCountryCovered": "Zaporozh'ye/Zaporizhia; Lugansk/Luhansk (east)",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CH",
+        "Latitude": "+4723+00832",
+        "TZDatabaseName": "Europe/Zurich",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "IO",
+        "Latitude": "−0720+07225",
+        "TZDatabaseName": "Indian/Chagos",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CX",
+        "Latitude": "−1025+10543",
+        "TZDatabaseName": "Indian/Christmas",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CC",
+        "Latitude": "−1210+09655",
+        "TZDatabaseName": "Indian/Cocos",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:30",
+        "UTCDSTOffset": "+06:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TF",
+        "Latitude": "−492110+0701303",
+        "TZDatabaseName": "Indian/Kerguelen",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SC",
+        "Latitude": "−0440+05528",
+        "TZDatabaseName": "Indian/Mahe",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MV",
+        "Latitude": "+0410+07330",
+        "TZDatabaseName": "Indian/Maldives",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MU",
+        "Latitude": "−2010+05730",
+        "TZDatabaseName": "Indian/Mauritius",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "RE",
+        "Latitude": "−2052+05528",
+        "TZDatabaseName": "Indian/Reunion",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "WS",
+        "Latitude": "−1350−17144",
+        "TZDatabaseName": "Pacific/Apia",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+13:00",
+        "UTCDSTOffset": "+14:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NZ",
+        "Latitude": "−3652+17446",
+        "TZDatabaseName": "Pacific/Auckland",
+        "PortionOfCountryCovered": "New Zealand (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PG",
+        "Latitude": "−0613+15534",
+        "TZDatabaseName": "Pacific/Bougainville",
+        "PortionOfCountryCovered": "Bougainville",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NZ",
+        "Latitude": "−4357−17633",
+        "TZDatabaseName": "Pacific/Chatham",
+        "PortionOfCountryCovered": "Chatham Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+12:45",
+        "UTCDSTOffset": "+13:45",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FM",
+        "Latitude": "+0725+15147",
+        "TZDatabaseName": "Pacific/Chuuk",
+        "PortionOfCountryCovered": "Chuuk/Truk, Yap",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CL",
+        "Latitude": "−2709−10926",
+        "TZDatabaseName": "Pacific/Easter",
+        "PortionOfCountryCovered": "Easter Island",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "VU",
+        "Latitude": "−1740+16825",
+        "TZDatabaseName": "Pacific/Efate",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KI",
+        "Latitude": "−0308−17105",
+        "TZDatabaseName": "Pacific/Enderbury",
+        "PortionOfCountryCovered": "Phoenix Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+13:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TK",
+        "Latitude": "−0922−17114",
+        "TZDatabaseName": "Pacific/Fakaofo",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+13:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FJ",
+        "Latitude": "−1808+17825",
+        "TZDatabaseName": "Pacific/Fiji",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TV",
+        "Latitude": "−0831+17913",
+        "TZDatabaseName": "Pacific/Funafuti",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "EC",
+        "Latitude": "−0054−08936",
+        "TZDatabaseName": "Pacific/Galapagos",
+        "PortionOfCountryCovered": "Galapagos Islands",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PF",
+        "Latitude": "−2308−13457",
+        "TZDatabaseName": "Pacific/Gambier",
+        "PortionOfCountryCovered": "Gambier Islands",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "SB",
+        "Latitude": "−0932+16012",
+        "TZDatabaseName": "Pacific/Guadalcanal",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "GU",
+        "Latitude": "+1328+14445",
+        "TZDatabaseName": "Pacific/Guam",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "US",
+        "Latitude": "+211825−1575130",
+        "TZDatabaseName": "Pacific/Honolulu",
+        "PortionOfCountryCovered": "Hawaii",
+        "Status": "Canonical",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KI",
+        "Latitude": "+0152−15720",
+        "TZDatabaseName": "Pacific/Kiritimati",
+        "PortionOfCountryCovered": "Line Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+14:00",
+        "UTCDSTOffset": "+14:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FM",
+        "Latitude": "+0519+16259",
+        "TZDatabaseName": "Pacific/Kosrae",
+        "PortionOfCountryCovered": "Kosrae",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MH",
+        "Latitude": "+0905+16720",
+        "TZDatabaseName": "Pacific/Kwajalein",
+        "PortionOfCountryCovered": "Kwajalein",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "MH",
+        "Latitude": "+0709+17112",
+        "TZDatabaseName": "Pacific/Majuro",
+        "PortionOfCountryCovered": "Marshall Islands (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PF",
+        "Latitude": "−0900−13930",
+        "TZDatabaseName": "Pacific/Marquesas",
+        "PortionOfCountryCovered": "Marquesas Islands",
+        "Status": "Canonical",
+        "UTCOffset": "−09:30",
+        "UTCDSTOffset": "−09:30",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NR",
+        "Latitude": "−0031+16655",
+        "TZDatabaseName": "Pacific/Nauru",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NU",
+        "Latitude": "−1901−16955",
+        "TZDatabaseName": "Pacific/Niue",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NF",
+        "Latitude": "−2903+16758",
+        "TZDatabaseName": "Pacific/Norfolk",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "NC",
+        "Latitude": "−2216+16627",
+        "TZDatabaseName": "Pacific/Noumea",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AS",
+        "Latitude": "−1416−17042",
+        "TZDatabaseName": "Pacific/Pago_Pago",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PW",
+        "Latitude": "+0720+13429",
+        "TZDatabaseName": "Pacific/Palau",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PN",
+        "Latitude": "−2504−13005",
+        "TZDatabaseName": "Pacific/Pitcairn",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "FM",
+        "Latitude": "+0658+15813",
+        "TZDatabaseName": "Pacific/Pohnpei",
+        "PortionOfCountryCovered": "Pohnpei/Ponape",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PG",
+        "Latitude": "−0930+14710",
+        "TZDatabaseName": "Pacific/Port_Moresby",
+        "PortionOfCountryCovered": "Papua New Guinea (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "CK",
+        "Latitude": "−2114−15946",
+        "TZDatabaseName": "Pacific/Rarotonga",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "PF",
+        "Latitude": "−1732−14934",
+        "TZDatabaseName": "Pacific/Tahiti",
+        "PortionOfCountryCovered": "Society Islands",
+        "Status": "Canonical",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "KI",
+        "Latitude": "+0125+17300",
+        "TZDatabaseName": "Pacific/Tarawa",
+        "PortionOfCountryCovered": "Gilbert Islands",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "TO",
+        "Latitude": "−2110−17510",
+        "TZDatabaseName": "Pacific/Tongatapu",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+13:00",
+        "UTCDSTOffset": "+14:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "UM",
+        "Latitude": "+1917+16637",
+        "TZDatabaseName": "Pacific/Wake",
+        "PortionOfCountryCovered": "Wake Island",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "WF",
+        "Latitude": "−1318−17610",
+        "TZDatabaseName": "Pacific/Wallis",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": ""
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−6448−06406",
+        "TZDatabaseName": "Antarctica/Palmer",
+        "PortionOfCountryCovered": "Palmer",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Chilean Antarctica Region"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "EST",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Choose a zone that currently observes EST without daylight savings time, such as America/Cancun."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "HST",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": "Choose a zone that currently observes HST without daylight savings time, such as Pacific/Honolulu."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "MST",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Choose a zone that currently observes MST without daylight savings time, such as America/Phoenix."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "CET",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Choose a zone that observes CET, such as Europe/Paris."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "CST6CDT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Choose a zone that observes CST with United States daylight savings time rules, such as America/Chicago."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "EET",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Choose a zone that observes EET, such as Europe/Sofia."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "EST5EDT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Choose a zone that observes EST with United States daylight savings time rules, such as America/New_York."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "MET",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Choose a zone that observes MET (sames as CET), such as Europe/Paris."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "MST7MDT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Choose a zone that observes MST with United States daylight savings time rules, such as America/Denver."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "PST8PDT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Choose a zone that observes PST with United States daylight savings time rules, such as America/Los_Angeles."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "WET",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Choose a zone that observes WET, such as Europe/Lisbon."
+    },
+    {
+        "CountryCode": "UA",
+        "Latitude": "+4457+03406",
+        "TZDatabaseName": "Europe/Simferopol",
+        "PortionOfCountryCovered": "Crimea",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Disputed - Reflects data in the TZDB.[note 2]"
+    },
+    {
+        "CountryCode": "DE",
+        "Latitude": "+5230+01322",
+        "TZDatabaseName": "Europe/Berlin",
+        "PortionOfCountryCovered": "Germany (most areas)",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "In 1945, the Trizone did not follow Berlin's switch to DST, see Time in Germany"
+    },
+    {
+        "CountryCode": "ML",
+        "Latitude": "+1239−00800",
+        "TZDatabaseName": "Africa/Bamako",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "GM",
+        "Latitude": "+1328−01639",
+        "TZDatabaseName": "Africa/Banjul",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "GN",
+        "Latitude": "+0931−01343",
+        "TZDatabaseName": "Africa/Conakry",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "SN",
+        "Latitude": "+1440−01726",
+        "TZDatabaseName": "Africa/Dakar",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "SL",
+        "Latitude": "+0830−01315",
+        "TZDatabaseName": "Africa/Freetown",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "TG",
+        "Latitude": "+0608+00113",
+        "TZDatabaseName": "Africa/Lome",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "MR",
+        "Latitude": "+1806−01557",
+        "TZDatabaseName": "Africa/Nouakchott",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "BF",
+        "Latitude": "+1222−00131",
+        "TZDatabaseName": "Africa/Ouagadougou",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Africa/Timbuktu",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "SH",
+        "Latitude": "−1555−00542",
+        "TZDatabaseName": "Atlantic/St_Helena",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Abidjan"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Egypt",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Cairo"
+    },
+    {
+        "CountryCode": "LS",
+        "Latitude": "−2928+02730",
+        "TZDatabaseName": "Africa/Maseru",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Johannesburg"
+    },
+    {
+        "CountryCode": "SZ",
+        "Latitude": "−2618+03106",
+        "TZDatabaseName": "Africa/Mbabane",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Johannesburg"
+    },
+    {
+        "CountryCode": "CF",
+        "Latitude": "+0422+01835",
+        "TZDatabaseName": "Africa/Bangui",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "CG",
+        "Latitude": "−0416+01517",
+        "TZDatabaseName": "Africa/Brazzaville",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "CM",
+        "Latitude": "+0403+00942",
+        "TZDatabaseName": "Africa/Douala",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "CD",
+        "Latitude": "−0418+01518",
+        "TZDatabaseName": "Africa/Kinshasa",
+        "PortionOfCountryCovered": "Dem. Rep. of Congo (west)",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "GA",
+        "Latitude": "+0023+00927",
+        "TZDatabaseName": "Africa/Libreville",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "AO",
+        "Latitude": "−0848+01314",
+        "TZDatabaseName": "Africa/Luanda",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "GQ",
+        "Latitude": "+0345+00847",
+        "TZDatabaseName": "Africa/Malabo",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "NE",
+        "Latitude": "+1331+00207",
+        "TZDatabaseName": "Africa/Niamey",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "BJ",
+        "Latitude": "+0629+00237",
+        "TZDatabaseName": "Africa/Porto-Novo",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "ST",
+        "Latitude": "+0020+00644",
+        "TZDatabaseName": "Africa/Sao_Tome",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Africa/Lagos"
+    },
+    {
+        "CountryCode": "MW",
+        "Latitude": "−1547+03500",
+        "TZDatabaseName": "Africa/Blantyre",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "BI",
+        "Latitude": "−0323+02922",
+        "TZDatabaseName": "Africa/Bujumbura",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "BW",
+        "Latitude": "−2439+02555",
+        "TZDatabaseName": "Africa/Gaborone",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "ZW",
+        "Latitude": "−1750+03103",
+        "TZDatabaseName": "Africa/Harare",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "RW",
+        "Latitude": "−0157+03004",
+        "TZDatabaseName": "Africa/Kigali",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "CD",
+        "Latitude": "−1140+02728",
+        "TZDatabaseName": "Africa/Lubumbashi",
+        "PortionOfCountryCovered": "Dem. Rep. of Congo (east)",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "ZM",
+        "Latitude": "−1525+02817",
+        "TZDatabaseName": "Africa/Lusaka",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Maputo"
+    },
+    {
+        "CountryCode": "ET",
+        "Latitude": "+0902+03842",
+        "TZDatabaseName": "Africa/Addis_Ababa",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "ER",
+        "Latitude": "+1520+03853",
+        "TZDatabaseName": "Africa/Asmara",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "TZ",
+        "Latitude": "−0648+03917",
+        "TZDatabaseName": "Africa/Dar_es_Salaam",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "DJ",
+        "Latitude": "+1136+04309",
+        "TZDatabaseName": "Africa/Djibouti",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "UG",
+        "Latitude": "+0019+03225",
+        "TZDatabaseName": "Africa/Kampala",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "SO",
+        "Latitude": "+0204+04522",
+        "TZDatabaseName": "Africa/Mogadishu",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "MG",
+        "Latitude": "−1855+04731",
+        "TZDatabaseName": "Indian/Antananarivo",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "KM",
+        "Latitude": "−1141+04316",
+        "TZDatabaseName": "Indian/Comoro",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "YT",
+        "Latitude": "−1247+04514",
+        "TZDatabaseName": "Indian/Mayotte",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Africa/Nairobi"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Libya",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Africa/Tripoli"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Atka",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−09:00",
+        "Notes": "Link to America/Adak"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Aleutian",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−09:00",
+        "Notes": "Link to America/Adak"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Alaska",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": "Link to America/Anchorage"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Buenos_Aires",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Buenos_Aires"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Argentina/ComodRivadavia",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Catamarca"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Catamarca",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Catamarca"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Cordoba",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Cordoba"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Rosario",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Cordoba"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Jujuy",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Jujuy"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Mendoza",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Argentina/Mendoza"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Coral_Harbour",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Atikokan"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Central",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Chicago"
+    },
+    {
+        "CountryCode": "AW",
+        "Latitude": "+1230−06958",
+        "TZDatabaseName": "America/Aruba",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Curacao"
+    },
+    {
+        "CountryCode": "BQ",
+        "Latitude": "+120903−0681636",
+        "TZDatabaseName": "America/Kralendijk",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Curacao"
+    },
+    {
+        "CountryCode": "SX",
+        "Latitude": "+180305−0630250",
+        "TZDatabaseName": "America/Lower_Princes",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Curacao"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Shiprock",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Denver"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Navajo",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Denver"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Mountain",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Denver"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Michigan",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Detroit"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Mountain",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Edmonton"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Atlantic",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Halifax"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Cuba",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Havana"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Fort_Wayne",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Indiana/Indianapolis"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Indianapolis",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Indiana/Indianapolis"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/East-Indiana",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Indiana/Indianapolis"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Knox_IN",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Indiana/Knox"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Indiana-Starke",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Indiana/Knox"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Jamaica",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Jamaica"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Louisville",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Kentucky/Louisville"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Pacific",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Los_Angeles"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Pacific-New",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Los_Angeles"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Brazil/West",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Manaus"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Mexico/BajaSur",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Mazatlan"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Mexico/General",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Mexico_City"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Eastern",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/New_York"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Brazil/DeNoronha",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−02:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": "Link to America/Noronha"
+    },
+    {
+        "CountryCode": "KY",
+        "Latitude": "+1918−08123",
+        "TZDatabaseName": "America/Cayman",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Panama"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Arizona",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Phoenix"
+    },
+    {
+        "CountryCode": "AI",
+        "Latitude": "+1812−06304",
+        "TZDatabaseName": "America/Anguilla",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "AG",
+        "Latitude": "+1703−06148",
+        "TZDatabaseName": "America/Antigua",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "DM",
+        "Latitude": "+1518−06124",
+        "TZDatabaseName": "America/Dominica",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "GD",
+        "Latitude": "+1203−06145",
+        "TZDatabaseName": "America/Grenada",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "GP",
+        "Latitude": "+1614−06132",
+        "TZDatabaseName": "America/Guadeloupe",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "MF",
+        "Latitude": "+1804−06305",
+        "TZDatabaseName": "America/Marigot",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "MS",
+        "Latitude": "+1643−06213",
+        "TZDatabaseName": "America/Montserrat",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "BL",
+        "Latitude": "+1753−06251",
+        "TZDatabaseName": "America/St_Barthelemy",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "KN",
+        "Latitude": "+1718−06243",
+        "TZDatabaseName": "America/St_Kitts",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "LC",
+        "Latitude": "+1401−06100",
+        "TZDatabaseName": "America/St_Lucia",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "VI",
+        "Latitude": "+1821−06456",
+        "TZDatabaseName": "America/St_Thomas",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "VC",
+        "Latitude": "+1309−06114",
+        "TZDatabaseName": "America/St_Vincent",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "VG",
+        "Latitude": "+1827−06437",
+        "TZDatabaseName": "America/Tortola",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Virgin",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Port_of_Spain"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Saskatchewan",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Link to America/Regina"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Porto_Acre",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Rio_Branco"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Brazil/Acre",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Rio_Branco"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Chile/Continental",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Link to America/Santiago"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Brazil/East",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": "Link to America/Sao_Paulo"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Newfoundland",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−03:30",
+        "UTCDSTOffset": "−02:30",
+        "Notes": "Link to America/St_Johns"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Ensenada",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Tijuana"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Santa_Isabel",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Tijuana"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Mexico/BajaNorte",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Tijuana"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "America/Montreal",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Toronto"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Eastern",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Link to America/Toronto"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Pacific",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Vancouver"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Yukon",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Link to America/Whitehorse"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Canada/Central",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to America/Winnipeg"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Ashkhabad",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": "Link to Asia/Ashgabat"
+    },
+    {
+        "CountryCode": "KH",
+        "Latitude": "+1133+10455",
+        "TZDatabaseName": "Asia/Phnom_Penh",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": "Link to Asia/Bangkok"
+    },
+    {
+        "CountryCode": "LA",
+        "Latitude": "+1758+10236",
+        "TZDatabaseName": "Asia/Vientiane",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": "Link to Asia/Bangkok"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Dacca",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": "Link to Asia/Dhaka"
+    },
+    {
+        "CountryCode": "OM",
+        "Latitude": "+2336+05835",
+        "TZDatabaseName": "Asia/Muscat",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": "Link to Asia/Dubai"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Saigon",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": "Link to Asia/Ho_Chi_Minh"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Hongkong",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Hong_Kong"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Tel_Aviv",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Asia/Jerusalem"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Israel",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Asia/Jerusalem"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Katmandu",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+05:45",
+        "UTCDSTOffset": "+05:45",
+        "Notes": "Link to Asia/Kathmandu"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Calcutta",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+05:30",
+        "UTCDSTOffset": "+05:30",
+        "Notes": "Link to Asia/Kolkata"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Macao",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Macau"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Ujung_Pandang",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Makassar"
+    },
+    {
+        "CountryCode": "BH",
+        "Latitude": "+2623+05035",
+        "TZDatabaseName": "Asia/Bahrain",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Asia/Qatar"
+    },
+    {
+        "CountryCode": "YE",
+        "Latitude": "+1245+04512",
+        "TZDatabaseName": "Asia/Aden",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Asia/Riyadh"
+    },
+    {
+        "CountryCode": "KW",
+        "Latitude": "+2920+04759",
+        "TZDatabaseName": "Asia/Kuwait",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Asia/Riyadh"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "ROK",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": "Link to Asia/Seoul"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Chongqing",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Shanghai"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Chungking",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Shanghai"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Harbin",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Shanghai"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "PRC",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Shanghai"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Singapore",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Singapore"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "ROC",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Taipei"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Iran",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+03:30",
+        "UTCDSTOffset": "+04:30",
+        "Notes": "Link to Asia/Tehran"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Thimbu",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": "Link to Asia/Thimphu"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Japan",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": "Link to Asia/Tokyo"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Ulan_Bator",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Asia/Ulaanbaatar"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Kashgar",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": "Link to Asia/Urumqi[note 1]"
+    },
+    {
+        "CountryCode": "MM",
+        "Latitude": "+1647+09610",
+        "TZDatabaseName": "Asia/Rangoon",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+06:30",
+        "UTCDSTOffset": "+06:30",
+        "Notes": "Link to Asia/Yangon"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Atlantic/Faeroe",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Atlantic/Faroe"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Iceland",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Atlantic/Reykjavik"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/South",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+10:30",
+        "Notes": "Link to Australia/Adelaide"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/Queensland",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": "Link to Australia/Brisbane"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/Yancowinna",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+10:30",
+        "Notes": "Link to Australia/Broken_Hill"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/North",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+09:30",
+        "UTCDSTOffset": "+09:30",
+        "Notes": "Link to Australia/Darwin"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/Tasmania",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Hobart"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/LHI",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:30",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Lord_Howe"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/Victoria",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Melbourne"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/West",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Link to Australia/Perth"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/ACT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Sydney"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/Canberra",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Sydney"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Australia/NSW",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Australia/Sydney"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+0",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT0",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-0",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/Greenwich",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GMT",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GMT+0",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GMT0",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GMT−0",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Greenwich",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/GMT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "UCT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UCT"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/Universal",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UTC"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/Zulu",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UTC"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Universal",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UTC"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "UTC",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UTC"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Zulu",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+00:00",
+        "Notes": "Link to Etc/UTC"
+    },
+    {
+        "CountryCode": "SI",
+        "Latitude": "+4603+01431",
+        "TZDatabaseName": "Europe/Ljubljana",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Belgrade"
+    },
+    {
+        "CountryCode": "ME",
+        "Latitude": "+4226+01916",
+        "TZDatabaseName": "Europe/Podgorica",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Belgrade"
+    },
+    {
+        "CountryCode": "BA",
+        "Latitude": "+4352+01825",
+        "TZDatabaseName": "Europe/Sarajevo",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Belgrade"
+    },
+    {
+        "CountryCode": "MK",
+        "Latitude": "+4159+02126",
+        "TZDatabaseName": "Europe/Skopje",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Belgrade"
+    },
+    {
+        "CountryCode": "HR",
+        "Latitude": "+4548+01558",
+        "TZDatabaseName": "Europe/Zagreb",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Belgrade"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Europe/Tiraspol",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Europe/Chisinau"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Eire",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/Dublin"
+    },
+    {
+        "CountryCode": "AX",
+        "Latitude": "+6006+01957",
+        "TZDatabaseName": "Europe/Mariehamn",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Europe/Helsinki"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Asia/Istanbul",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Europe/Istanbul"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Turkey",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Europe/Istanbul"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Portugal",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/Lisbon"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Europe/Belfast",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "GG",
+        "Latitude": "+492717−0023210",
+        "TZDatabaseName": "Europe/Guernsey",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "IM",
+        "Latitude": "+5409−00428",
+        "TZDatabaseName": "Europe/Isle_of_Man",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "JE",
+        "Latitude": "+491101−0020624",
+        "TZDatabaseName": "Europe/Jersey",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GB",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "GB-Eire",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Link to Europe/London"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "W-SU",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Link to Europe/Moscow"
+    },
+    {
+        "CountryCode": "SJ",
+        "Latitude": "+7800+01600",
+        "TZDatabaseName": "Arctic/Longyearbyen",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Oslo"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Atlantic/Jan_Mayen",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Oslo"
+    },
+    {
+        "CountryCode": "SK",
+        "Latitude": "+4809+01707",
+        "TZDatabaseName": "Europe/Bratislava",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Prague"
+    },
+    {
+        "CountryCode": "SM",
+        "Latitude": "+4355+01228",
+        "TZDatabaseName": "Europe/San_Marino",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Rome"
+    },
+    {
+        "CountryCode": "VA",
+        "Latitude": "+415408+0122711",
+        "TZDatabaseName": "Europe/Vatican",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Rome"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Poland",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Warsaw"
+    },
+    {
+        "CountryCode": "DE",
+        "Latitude": "+4742+00841",
+        "TZDatabaseName": "Europe/Busingen",
+        "PortionOfCountryCovered": "Büsingen am Hochrhein",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Zurich"
+    },
+    {
+        "CountryCode": "LI",
+        "Latitude": "+4709+00931",
+        "TZDatabaseName": "Europe/Vaduz",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Link to Europe/Zurich"
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−7750+16636",
+        "TZDatabaseName": "Antarctica/McMurdo",
+        "PortionOfCountryCovered": "New Zealand time - McMurdo, South Pole",
+        "Status": "Alias",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": "Link to Pacific/Auckland"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Antarctica/South_Pole",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": "Link to Pacific/Auckland"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "NZ",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": "Link to Pacific/Auckland"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "NZ-CHAT",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+12:45",
+        "UTCDSTOffset": "+13:45",
+        "Notes": "Link to Pacific/Chatham"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Pacific/Truk",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": "Link to Pacific/Chuuk"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Pacific/Yap",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": "Link to Pacific/Chuuk"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Chile/EasterIsland",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Link to Pacific/Easter"
+    },
+    {
+        "CountryCode": "MP",
+        "Latitude": "+1512+14545",
+        "TZDatabaseName": "Pacific/Saipan",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": "Link to Pacific/Guam"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Pacific/Johnston",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": "Link to Pacific/Honolulu"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Hawaii",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": "Link to Pacific/Honolulu"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Kwajalein",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": "Link to Pacific/Kwajalein"
+    },
+    {
+        "CountryCode": "UM",
+        "Latitude": "+2813−17722",
+        "TZDatabaseName": "Pacific/Midway",
+        "PortionOfCountryCovered": "Midway Islands",
+        "Status": "Alias",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": "Link to Pacific/Pago_Pago"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Pacific/Samoa",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": "Link to Pacific/Pago_Pago"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "US/Samoa",
+        "PortionOfCountryCovered": "",
+        "Status": "Deprecated",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": "Link to Pacific/Pago_Pago"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Pacific/Ponape",
+        "PortionOfCountryCovered": "",
+        "Status": "Alias",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Link to Pacific/Pohnpei"
+    },
+    {
+        "CountryCode": "CL",
+        "Latitude": "−5309−07055",
+        "TZDatabaseName": "America/Punta_Arenas",
+        "PortionOfCountryCovered": "Region of Magallanes",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Magallanes Region"
+    },
+    {
+        "CountryCode": "IN",
+        "Latitude": "+2232+08822",
+        "TZDatabaseName": "Asia/Kolkata",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:30",
+        "UTCDSTOffset": "+05:30",
+        "Notes": "Note: Different zones in history, see Time in India."
+    },
+    {
+        "CountryCode": "AQ",
+        "Latitude": "−720041+0023206",
+        "TZDatabaseName": "Antarctica/Troll",
+        "PortionOfCountryCovered": "Troll",
+        "Status": "Canonical",
+        "UTCOffset": "+00:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Previously used +01:00 for a brief period between standard and daylight time.[2]"
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+1",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−01:00",
+        "UTCDSTOffset": "−01:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+10",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−10:00",
+        "UTCDSTOffset": "−10:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+11",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−11:00",
+        "UTCDSTOffset": "−11:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+12",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−12:00",
+        "UTCDSTOffset": "−12:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+2",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−02:00",
+        "UTCDSTOffset": "−02:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+3",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−03:00",
+        "UTCDSTOffset": "−03:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+4",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−04:00",
+        "UTCDSTOffset": "−04:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+5",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−05:00",
+        "UTCDSTOffset": "−05:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+6",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−06:00",
+        "UTCDSTOffset": "−06:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+7",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−07:00",
+        "UTCDSTOffset": "−07:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+8",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−08:00",
+        "UTCDSTOffset": "−08:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT+9",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "−09:00",
+        "UTCDSTOffset": "−09:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-1",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+01:00",
+        "UTCDSTOffset": "+01:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-10",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+10:00",
+        "UTCDSTOffset": "+10:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-11",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+11:00",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-12",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+12:00",
+        "UTCDSTOffset": "+12:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-13",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+13:00",
+        "UTCDSTOffset": "+13:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-14",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+14:00",
+        "UTCDSTOffset": "+14:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-2",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+02:00",
+        "UTCDSTOffset": "+02:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-3",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+03:00",
+        "UTCDSTOffset": "+03:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-4",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+04:00",
+        "UTCDSTOffset": "+04:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-5",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+05:00",
+        "UTCDSTOffset": "+05:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-6",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-7",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+07:00",
+        "UTCDSTOffset": "+07:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-8",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+08:00",
+        "UTCDSTOffset": "+08:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "",
+        "Latitude": "",
+        "TZDatabaseName": "Etc/GMT-9",
+        "PortionOfCountryCovered": "",
+        "Status": "Canonical",
+        "UTCOffset": "+09:00",
+        "UTCDSTOffset": "+09:00",
+        "Notes": "Sign is intentionally inverted. See the Etc area description."
+    },
+    {
+        "CountryCode": "CN",
+        "Latitude": "+4348+08735",
+        "TZDatabaseName": "Asia/Urumqi",
+        "PortionOfCountryCovered": "Xinjiang Time",
+        "Status": "Canonical",
+        "UTCOffset": "+06:00",
+        "UTCDSTOffset": "+06:00",
+        "Notes": "The Asia/Urumqi entry in the tz database reflected the use of Xinjiang Time by part of the local population. Consider using Asia/Shanghai for Beijing Time if that is preferred."
+    },
+    {
+        "CountryCode": "AU",
+        "Latitude": "−3133+15905",
+        "TZDatabaseName": "Australia/Lord_Howe",
+        "PortionOfCountryCovered": "Lord Howe Island",
+        "Status": "Canonical",
+        "UTCOffset": "+10:30",
+        "UTCDSTOffset": "+11:00",
+        "Notes": "This is the only time zone in the world that uses 30-minute DST transitions. "
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "city": "New York",
+        "bg":"bg/primary",
+        "text":"text-secondary"
+    },
+    {
+        "city":"London",
+        "bg":"bg-secondary",
+        "text":"text-secondary"
+    },
+    {
+        "city":"BANGKOK",
+        "bg":"bg-secondary",
+        "text":"text-secondary"
+    },
+    {
+        "city":"TAIWAN",
+        "bg":"bg-secondary",
+        "text":"text-secondary"
+    },
+    {
+        "city":"SYDNEY",
+        "bg":"bg-secondary",
+        "text":"text-secondary"
+    }
+]
