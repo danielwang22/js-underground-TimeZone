@@ -144,11 +144,11 @@ const autoCompletejs = new autoComplete({
                 .setAttribute("placeholder", "Loading...");
             // Fetch 抓取 JSON
             const source = await fetch(
-                "../databaseOfTimeZones.json"
+                "../js-underground-TimeZone/databaseOfTimeZones.json"
             );
             console.log(source);
             //讀取到資料轉成可以讀的陣列格式
-            const data = await JSON.parse(JSON.stringify(source));
+            const data = await source.json();
             // 貼上 placeholder 文字
             document
                 .querySelector("#autoComplete")
